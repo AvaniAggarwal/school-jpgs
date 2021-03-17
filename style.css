@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+#contactUs{
+    margin-top: 40px;
+}
